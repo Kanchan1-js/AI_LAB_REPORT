@@ -1,0 +1,24 @@
+This repository contains the complete body of work for a comprehensive Artificial Intelligence laboratory course, featuring detailed implementations, comparative analysis, and theoretical reports across nine core domains of AI. The project demonstrates proficiency in foundational search algorithms, classical logic, evolutionary computation, and modern deep learning architectures.
+
+Project Scope and Technical Achievements
+The work is organized into nine distinct laboratory modules, each focusing on a fundamental AI concept.
+
+1. Foundational Search and Agents
+Lab	Focus	Technical Achievement
+L1	AI Agents	Implementation and comparative study of Simple Reflex, Model-Based, Goal-Based, Utility-Based, and Learning Agents within a PySnake game simulation environment.
+L2	N-Puzzle Solver	Implemented and benchmarked 8 core Search Algorithms including unguided (BFS, DFS, UCS, IDS) and informed/heuristic methods (A*, Greedy Best-First, Bidirectional Search) to solve the N-Puzzle problem.
+L3	Genetic Algorithm (GA)	Development and application of a Genetic Algorithm for a defined optimization problem, exploring evolutionary parameters like crossover and mutation.
+L4	Fuzzy Logic	Implementation of five practical examples demonstrating Fuzzy Logic systems to handle inexact information, including fuzzy sets, membership functions, and rule-based inference.
+L7	Probabilistic Reasoning	Implementation and evaluation of the Naive Bayes Classifier, focusing on feature independence assumptions and its application in classification tasks.
+L8	Formal Logic	Practical exercises in Propositional Logic (truth assignment, equivalence) and Predicate Logic (solving complex queries using formal derivations and proof techniques).
+
+| L5 | Multi-Layer Perceptron (MLP) | Custom implementation of the MLP with backpropagation, Sigmoid activation, and analysis of its superior performance in non-linear classification (e.g., Two-Moons dataset). |
+| L6 | Recurrent Neural Networks (RNN) | Implementation of a basic RNN model, focusing on sequential data processing and understanding its architecture for tasks like time-series analysis. |
+| L9 | Natural Language Processing (NLP) | Implementation of core NLP techniques (e.g., TF-IDF, pre-processing methods) for basic text analysis and feature extraction from textual data. |
+
+Technologies and Methodology
+Primary Language: Python
+
+Libraries: NumPy (for core mathematical computation and neural network mechanics), Matplotlib (for visualization of decision boundaries and performance), Scikit-learn (for comparison baselines and utility functions).
+
+Methodology: Each lab follows a rigorous theory-implementation-analysis structure, including PEAS framework analysis for agents, complexity analysis for search algorithms, and detailed performance evaluation for machine learning models.
